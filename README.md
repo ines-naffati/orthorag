@@ -1,5 +1,7 @@
 # orthorag
 
+[![tests](https://github.com/ines-naffati/orthorag/actions/workflows/tests.yml/badge.svg)](https://github.com/ines-naffati/orthorag/actions/workflows/tests.yml)
+
 **Retrieval-augmented drafting of FDA 510(k) summaries for orthopedic implants: built on public data, run on local models, and evaluated against labels written by regulatory experts.**
 
 Before an implant goes on the U.S. market, its manufacturer writes a *510(k) summary*. The summary argues that the new device is substantially equivalent to devices that are already cleared, called *predicate devices*. Regulatory engineers spend hours reading earlier summaries to find comparable devices and reuse their structure.
